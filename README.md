@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Luciano</h1>
 
-![Original GitHub Profile](https://github.com/luc881/luc881/assets/106575656/eee82151-fb4e-4713-a4dd-86c88a0200b5)
-
+![Original GitHub Profile (1)](https://github.com/luc881/luc881/assets/106575656/4d3ff767-2369-4aae-8c8e-a532b0d8b4fa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
