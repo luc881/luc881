@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Luciano</h1>
+![Original GitHub Profile](https://github.com/luc881/luc881/assets/106575656/eee82151-fb4e-4713-a4dd-86c88a0200b5)
 
-![Black and Beige Minimalist Line Portfolio Presentation (2)](https://github.com/luc881/luc881/assets/106575656/63f508f0-6885-40bc-b6a2-7d356b0e02f8)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
