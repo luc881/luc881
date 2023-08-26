@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Luciano</h1>
-<h3 align="center">A backend developer from Mexico</h3>
+[<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/XMy8uV6)">
+](https://imgur.com/XMy8uV6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
